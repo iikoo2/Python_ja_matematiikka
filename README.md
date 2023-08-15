@@ -1,0 +1,2 @@
+# Python_ja_matematiikka
+Erilaisia Pythonin matematiikkaominaisuuksia
